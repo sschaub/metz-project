@@ -525,6 +525,13 @@
       <CustomDisplay1_Keyboard_PosPixels_Y>231</CustomDisplay1_Keyboard_PosPixels_Y>
     </division>
     <division>
+      <DivisionCode>5</DivisionCode>
+      <Name>SOLO</Name>
+      <ShortName>Solo</ShortName>
+      <NumberOfKeys>56</NumberOfKeys>
+      <MIDINoteNumOfFirstKey>36</MIDINoteNumOfFirstKey>
+    </division>
+    <division>
       <DivisionCode>7</DivisionCode>
       <Name>NOISES</Name>
       <ShortName>Noise</ShortName>
@@ -1113,8 +1120,8 @@
       <Position_LayoutOfPipesOnWindchestCode>2</Position_LayoutOfPipesOnWindchestCode>
       <Position_RankDistanceFromListenerMetres>1.2</Position_RankDistanceFromListenerMetres>
       <WindSupply_DivisionCodeOfWindchest>3</WindSupply_DivisionCodeOfWindchest>
-      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>16</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
-      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>16</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>21</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>21</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
       <Pitch_MaxRandomTuningErrorHz>0</Pitch_MaxRandomTuningErrorHz>
       <Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>8</Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>
       <Pitch_RankBaseOutputPitch64ftHarmonicNum>8</Pitch_RankBaseOutputPitch64ftHarmonicNum>
@@ -1169,8 +1176,8 @@
       <Position_LayoutOfPipesOnWindchestCode>2</Position_LayoutOfPipesOnWindchestCode>
       <Position_RankDistanceFromListenerMetres>1.2</Position_RankDistanceFromListenerMetres>
       <WindSupply_DivisionCodeOfWindchest>3</WindSupply_DivisionCodeOfWindchest>
-      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>5</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
-      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>5</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>9</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>9</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
       <Pitch_MaxRandomTuningErrorHz>0</Pitch_MaxRandomTuningErrorHz>
       <Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>8</Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>
       <Pitch_RankBaseOutputPitch64ftHarmonicNum>8</Pitch_RankBaseOutputPitch64ftHarmonicNum>
@@ -3084,11 +3091,11 @@
     </stoprank>
   </ObjectList>
 
-  <!-- Positif: Festival Trumpet -->
+  <!-- Positif: Trompette en chamade -->
   <ObjectList ObjectType="rank">
     <rank>
       <RankID>219</RankID>
-      <Name>Positif: Festival Trumpet bass (Rotterdam)</Name>
+      <Name>Positif: Chamade bass (Rotterdam)</Name>
       <NumberOfPipes>12</NumberOfPipes>
       <MIDINoteNumberOfFirstPipe>36</MIDINoteNumberOfFirstPipe>
       <IsPercussive>N</IsPercussive>
@@ -3102,8 +3109,8 @@
       <Position_LayoutOfPipesOnWindchestCode>2</Position_LayoutOfPipesOnWindchestCode>
       <Position_RankDistanceFromListenerMetres>1.2</Position_RankDistanceFromListenerMetres>
       <WindSupply_DivisionCodeOfWindchest>3</WindSupply_DivisionCodeOfWindchest>
-      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>10</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
-      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>10</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>13</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>13</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
       <Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>8</Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>
       <Pitch_RankBaseOutputPitch64ftHarmonicNum>8</Pitch_RankBaseOutputPitch64ftHarmonicNum>
       <Pitch_PipeMIDINoteNum036_TuningAdjustPercentSemitones>14</Pitch_PipeMIDINoteNum036_TuningAdjustPercentSemitones>
@@ -3113,7 +3120,7 @@
     </rank>
     <rank>
       <RankID>220</RankID>
-      <Name>Positif: Festival Trumpet (Rotterdam)</Name>
+      <Name>Positif: Chamade (Rotterdam)</Name>
       <NumberOfPipes>32</NumberOfPipes>
       <MIDINoteNumberOfFirstPipe>60</MIDINoteNumberOfFirstPipe>
       <IsPercussive>N</IsPercussive>
@@ -3127,8 +3134,8 @@
       <Position_LayoutOfPipesOnWindchestCode>2</Position_LayoutOfPipesOnWindchestCode>
       <Position_RankDistanceFromListenerMetres>1.2</Position_RankDistanceFromListenerMetres>
       <WindSupply_DivisionCodeOfWindchest>3</WindSupply_DivisionCodeOfWindchest>
-      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>10</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
-      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>10</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum036_LevelAdjustDecibels>18</Amp_PipeMIDINoteNum036_LevelAdjustDecibels>
+      <Amp_PipeMIDINoteNum096_LevelAdjustDecibels>18</Amp_PipeMIDINoteNum096_LevelAdjustDecibels>
       <Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>8</Samples_RankBasePitch64ftHarmNumIfAssumedTunedToConcertPitch>
       <Pitch_RankBaseOutputPitch64ftHarmonicNum>8</Pitch_RankBaseOutputPitch64ftHarmonicNum>
       <Pitch_PipeMIDINoteNum036_TuningAdjustPercentSemitones>14</Pitch_PipeMIDINoteNum036_TuningAdjustPercentSemitones>
@@ -3140,10 +3147,10 @@
   <ObjectList ObjectType="stop">
     <stop>
       <StopCode>2219</StopCode>
-      <Name>Positif: Festival Trumpet</Name>
-      <DisplayName>Festival Trumpet</DisplayName>
+      <Name>Positif: Trompette en chamade</Name>
+      <DisplayName>Trompette en chamade</DisplayName>
       <CustomDisplay1_DisplayPageID>1</CustomDisplay1_DisplayPageID>
-      <CustomDisplay1_Text>Festival Trumpet</CustomDisplay1_Text>
+      <CustomDisplay1_Text>Trompette en chamade</CustomDisplay1_Text>
       <CustomDisplay1_ControlStyleID>5</CustomDisplay1_ControlStyleID>
       <CustomDisplay1_PosPixels_X>1300</CustomDisplay1_PosPixels_X>
       <CustomDisplay1_PosPixels_Y>50</CustomDisplay1_PosPixels_Y>
@@ -3156,7 +3163,7 @@
   </ObjectList>
   <ObjectList ObjectType="stoprank">
     <stoprank>
-      <Name>Positif: Festival Trumpet bass</Name>
+      <Name>Positif: Chamade bass</Name>
       <StopCode>2219</StopCode>
       <RankTypeCode>1</RankTypeCode>
       <RankID>219</RankID>
@@ -3165,7 +3172,7 @@
       <NumberOfMappedDivisionKeys>12</NumberOfMappedDivisionKeys>
     </stoprank>
     <stoprank>
-      <Name>Positif: Festival Trumpet</Name>
+      <Name>Positif: Chamade</Name>
       <StopCode>2219</StopCode>
       <RankTypeCode>1</RankTypeCode>
       <RankID>220</RankID>
@@ -4335,6 +4342,43 @@
     </stoprank>
   </ObjectList>
 
+  <ObjectList ObjectType="stop">
+    <stop>
+      <StopCode>2315</StopCode>
+      <Name>Recit: Trompette en chamade</Name>
+      <DisplayName>Trompette en chamade</DisplayName>
+      <CustomDisplay1_DisplayPageID>1</CustomDisplay1_DisplayPageID>
+      <CustomDisplay1_Text>Trompette en chamade</CustomDisplay1_Text>
+      <CustomDisplay1_ControlStyleID>5</CustomDisplay1_ControlStyleID>
+      <CustomDisplay1_PosPixels_X>210</CustomDisplay1_PosPixels_X>
+      <CustomDisplay1_PosPixels_Y>500</CustomDisplay1_PosPixels_Y>
+
+      <PercussiveEngagingSoundEffect_RankID>30</PercussiveEngagingSoundEffect_RankID>
+      <PercussiveEngagingSoundEffect_MIDINoteNumber>36</PercussiveEngagingSoundEffect_MIDINoteNumber>
+      <PercussiveDisengagingSoundEffect_RankID>30</PercussiveDisengagingSoundEffect_RankID>
+      <PercussiveDisengagingSoundEffect_MIDINoteNumber>36</PercussiveDisengagingSoundEffect_MIDINoteNumber>
+    </stop>
+  </ObjectList>
+  <ObjectList ObjectType="stoprank">
+    <stoprank>
+      <Name>Recit: Chamade bass</Name>
+      <StopCode>2315</StopCode>
+      <RankTypeCode>1</RankTypeCode>
+      <RankID>219</RankID>
+      <MIDINoteNumIncrementFromDivisionToRank>-12</MIDINoteNumIncrementFromDivisionToRank>
+      <MIDINoteNumOfFirstMappedDivisionKey>48</MIDINoteNumOfFirstMappedDivisionKey>
+      <NumberOfMappedDivisionKeys>12</NumberOfMappedDivisionKeys>
+    </stoprank>
+    <stoprank>
+      <Name>Recit: Chamade</Name>
+      <StopCode>2315</StopCode>
+      <RankTypeCode>1</RankTypeCode>
+      <RankID>220</RankID>
+      <MIDINoteNumIncrementFromDivisionToRank>0</MIDINoteNumIncrementFromDivisionToRank>
+      <MIDINoteNumOfFirstMappedDivisionKey>60</MIDINoteNumOfFirstMappedDivisionKey>
+      <NumberOfMappedDivisionKeys>32</NumberOfMappedDivisionKeys>
+    </stoprank>
+  </ObjectList>
 <!-- 
   <ObjectList ObjectType="tremulant">
 
@@ -4349,6 +4393,40 @@
 
   </ObjectList>
  -->
+ 
+ <!-- Solo Division -->
+ 
+   <ObjectList ObjectType="stop">
+    <stop>
+      <StopCode>2401</StopCode>
+      <Name>Solo: Trompette en chamade</Name>
+      <DisplayName>Trompette en chamade</DisplayName>
+      <DefaultToEngaged>Y</DefaultToEngaged>      
+      <StoreInDivisionalCombinations>N</StoreInDivisionalCombinations>
+      <StoreInGeneralCombinations>N</StoreInGeneralCombinations>
+    </stop>
+  </ObjectList>
+  <ObjectList ObjectType="stoprank">
+    <stoprank>
+      <Name>Solo: Trompette en chamade bass</Name>
+      <StopCode>2401</StopCode>
+      <RankTypeCode>1</RankTypeCode>
+      <RankID>219</RankID>
+      <MIDINoteNumIncrementFromDivisionToRank>-12</MIDINoteNumIncrementFromDivisionToRank>
+      <MIDINoteNumOfFirstMappedDivisionKey>48</MIDINoteNumOfFirstMappedDivisionKey>
+      <NumberOfMappedDivisionKeys>12</NumberOfMappedDivisionKeys>
+    </stoprank>
+    <stoprank>
+      <Name>Solo: Trompette en chamade</Name>
+      <StopCode>2401</StopCode>
+      <RankTypeCode>1</RankTypeCode>
+      <RankID>220</RankID>
+      <MIDINoteNumIncrementFromDivisionToRank>0</MIDINoteNumIncrementFromDivisionToRank>
+      <MIDINoteNumOfFirstMappedDivisionKey>60</MIDINoteNumOfFirstMappedDivisionKey>
+      <NumberOfMappedDivisionKeys>32</NumberOfMappedDivisionKeys>
+    </stoprank>
+  </ObjectList>
+ 
 
 <!--  Recit Tremulant -->
   <ObjectList ObjectType="stop">
